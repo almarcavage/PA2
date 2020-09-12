@@ -1,0 +1,11 @@
+C:\Users\jslucas\source\repos\mis321\PA2\obj\Debug\netcoreapp3.1\PA2.csprojAssemblyReference.cache
+C:\Users\jslucas\source\repos\mis321\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+C:\Users\jslucas\source\repos\mis321\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+C:\Users\jslucas\source\repos\mis321\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+C:\Users\jslucas\source\repos\mis321\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+C:\Users\jslucas\source\repos\mis321\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+C:\Users\jslucas\source\repos\mis321\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+C:\Users\jslucas\source\repos\mis321\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+C:\Users\jslucas\source\repos\mis321\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\jslucas\source\repos\mis321\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+C:\Users\jslucas\source\repos\mis321\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
